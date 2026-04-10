@@ -17,4 +17,4 @@ This is a simple responsive landing page created using HTML and CSS as part of a
 - Media Queries
 
 ## Author
-Your Name
+Harsh walia
